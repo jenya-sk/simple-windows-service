@@ -28,7 +28,7 @@
 
 SimpleService.exe install
 
-shell
+
 
 
 ### Запуск службы:
@@ -36,7 +36,7 @@ shell
 
 SimpleService.exe start
 
-shell
+
 
 
 ### Остановка службы:
@@ -44,7 +44,7 @@ shell
 
 SimpleService.exe stop
 
-shell
+
 
 
 ### Удаление службы:
