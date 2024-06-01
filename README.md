@@ -1,5 +1,3 @@
-def print_readme():
-    readme_content = """
 # SimpleService
 
 Пример Windows-службы с поддержкой Unicode и ANSI.
@@ -57,9 +55,3 @@ SimpleService.exe remove
 markdown
 
 
-Этот пример кода создает простую Windows-службу с поддержкой Unicode и ANSI, которая может быть установлена, запущена, остановлена и удалена через командную строку.
-"""
-    print(readme_content)
-
-if __name__ == "__main__":
-    print_readme()
