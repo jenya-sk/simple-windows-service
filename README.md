@@ -52,6 +52,3 @@ SimpleService.exe stop
 ```
 SimpleService.exe remove
 ```
-markdown
-
-
